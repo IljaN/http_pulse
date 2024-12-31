@@ -1,5 +1,5 @@
 # http_pulse.sh
-___
+
 A shell script which beeps like a [pulse oximeter](https://en.wikipedia.org/wiki/Pulse_oximetry) if a given http url returns a successful status-code. Useful if you need to wait
 for a certain service to be available to continue a certain task and don't want to constantly hit F5 in your browser.
 
